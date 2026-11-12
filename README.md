@@ -153,10 +153,6 @@ anymore.
 
 ## GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhuvaneshwari-Mallesh&show_icons=true&hide_border=true&cache_seconds=86400&bg_color=16132B&title_color=E3B23C&icon_color=E3B23C&text_color=F2EBD9&ring_color=E3B23C)
-
-![Most-used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvaneshwari-Mallesh&layout=compact&hide_border=true&cache_seconds=86400&bg_color=16132B&title_color=E3B23C&text_color=F2EBD9)
-
 ![Contribution streak](https://streak-stats.demolab.com/?user=Bhuvaneshwari-Mallesh&hide_border=true&background=16132B&border=2C2750&stroke=2C2750&ring=E3B23C&fire=9B6BD9&currStreakLabel=9B6BD9&sideLabels=A79CC4&dates=7A6F9B&currStreakNum=F2EBD9&sideNums=F2EBD9)
 
 <img src="assets/divider.svg" width="100%" alt="">
