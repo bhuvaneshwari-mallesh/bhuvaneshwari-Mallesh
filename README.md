@@ -45,7 +45,7 @@ Badges marked **learning** are exactly that — in progress, not production expe
 **Sole engineer** &nbsp;·&nbsp; 2025–2026 &nbsp;·&nbsp; Belagavi (remote)
 
 [![Live](https://img.shields.io/badge/Live-abhyasalearning.in-E3B23C?style=flat-square&labelColor=16132B)](https://abhyasalearning.in/)
-`React` `TypeScript` `Node` `Express` `MongoDB` `Redis` `Razorpay` `Docker`
+**Stack** — React · TypeScript · Node · Express · MongoDB · Redis · Razorpay · Docker
 
 A MERN learning platform for Indian school curricula, with paid subscriptions. I designed,
 built and deployed all of it.
@@ -69,7 +69,7 @@ built and deployed all of it.
 
 [![Live](https://img.shields.io/badge/Live-demo-E3B23C?style=flat-square&labelColor=16132B)](https://id-preview--faf4698e-b141-42df-b08a-6dd96cc748d3.lovable.app/)
 [![Code](https://img.shields.io/badge/Code-tabby--split--magic-16132B?style=flat-square&logo=github&logoColor=A79CC4&labelColor=16132B)](https://github.com/Bhuvaneshwari-Mallesh/tabby-split-magic)
-`React` `TypeScript` `Tailwind CSS` `Supabase Edge Functions`
+**Stack** — React · TypeScript · Tailwind CSS · Supabase Edge Functions
 
 Takes a tangle of group IOUs and reduces it to the fewest direct payments. Built in 72 hours
 for SheBuilds Season 4, a women-only global buildathon that drew 5,000+ applicants from
@@ -120,7 +120,7 @@ anymore.
 - **Design direction.** Clean and modern-professional, with personality in the micro-copy
   and one deliberate accent colour — not another purple-gradient AI tool.
 
-`Python` `FastAPI` `Gemini` `LangChain/LangGraph` `Postgres + pgvector (Supabase)`
+**Stack** — Python · FastAPI · Gemini · LangChain/LangGraph · Postgres + pgvector (Supabase)
 
 <img src="assets/divider.svg" width="100%" alt="">
 
