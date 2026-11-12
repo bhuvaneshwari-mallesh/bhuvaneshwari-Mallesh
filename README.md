@@ -6,10 +6,10 @@ the parts most side projects skip: cache invalidation, token rotation, payment w
 multi-stage Docker builds. Going deeper on retrieval and agent systems now, and writing
 down what breaks as I build it.
 
-<a href="https://linkedin.com/in/bhuvaneshwari-mallesh"><img src="https://img.shields.io/badge/LinkedIn-1B2420?style=flat-square&logo=linkedin&logoColor=8A9A7E&labelColor=1B2420"></a>
-<a href="https://leetcode.com/u/bhuvnaaa/"><img src="https://img.shields.io/badge/LeetCode-100%2B%20solved-1B2420?style=flat-square&logo=leetcode&logoColor=8A9A7E&labelColor=1B2420"></a>
-<a href="https://abhyasalearning.in/"><img src="https://img.shields.io/badge/Abhyasa-live-1B2420?style=flat-square&logo=googlechrome&logoColor=EDEAE2&labelColor=1B2420"></a>
-<a href="mailto:bhuvanamallesh08@gmail.com"><img src="https://img.shields.io/badge/Email-1B2420?style=flat-square&logo=gmail&logoColor=9AA69B&labelColor=1B2420"></a>
+<a href="https://linkedin.com/in/bhuvaneshwari-mallesh"><img src="https://img.shields.io/badge/LinkedIn-16132B?style=flat-square&logo=linkedin&logoColor=E3B23C&labelColor=16132B"></a>
+<a href="https://leetcode.com/u/bhuvnaaa/"><img src="https://img.shields.io/badge/LeetCode-100%2B%20solved-16132B?style=flat-square&logo=leetcode&logoColor=E3B23C&labelColor=16132B"></a>
+<a href="https://abhyasalearning.in/"><img src="https://img.shields.io/badge/Abhyasa-live-16132B?style=flat-square&logo=googlechrome&logoColor=F2EBD9&labelColor=16132B"></a>
+<a href="mailto:bhuvanamallesh08@gmail.com"><img src="https://img.shields.io/badge/Email-16132B?style=flat-square&logo=gmail&logoColor=A79CC4&labelColor=16132B"></a>
 
 <img src="assets/divider.svg" width="100%" alt="">
 
@@ -29,11 +29,11 @@ at KodNest. Everything since has been shipping real things end to end.
 
 | | |
 | --- | --- |
-| **Languages** | ![Java](https://img.shields.io/badge/Java-1B2420?style=flat-square&logo=openjdk&logoColor=8A9A7E) ![JavaScript](https://img.shields.io/badge/JavaScript%20ES6%2B-1B2420?style=flat-square&logo=javascript&logoColor=8A9A7E) ![Python](https://img.shields.io/badge/Python-1B2420?style=flat-square&logo=python&logoColor=8A9A7E) ![SQL](https://img.shields.io/badge/SQL-1B2420?style=flat-square&logoColor=8A9A7E) ![C](https://img.shields.io/badge/C-1B2420?style=flat-square&logo=c&logoColor=8A9A7E) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-1B2420?style=flat-square&logo=react&logoColor=8A9A7E) ![HTML5](https://img.shields.io/badge/HTML5-1B2420?style=flat-square&logo=html5&logoColor=8A9A7E) ![CSS3](https://img.shields.io/badge/CSS3-1B2420?style=flat-square&logo=css3&logoColor=8A9A7E) ![Tailwind](https://img.shields.io/badge/Tailwind-1B2420?style=flat-square&logo=tailwindcss&logoColor=8A9A7E) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-1B2420?style=flat-square&logo=nodedotjs&logoColor=8A9A7E) ![Express](https://img.shields.io/badge/Express-1B2420?style=flat-square&logo=express&logoColor=8A9A7E) ![REST](https://img.shields.io/badge/REST%20APIs-1B2420?style=flat-square&logoColor=8A9A7E) ![FastAPI](https://img.shields.io/badge/FastAPI-learning-1B2420?style=flat-square&logo=fastapi&logoColor=6E7A70) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-1B2420?style=flat-square&logo=mongodb&logoColor=8A9A7E) ![MySQL](https://img.shields.io/badge/MySQL-1B2420?style=flat-square&logo=mysql&logoColor=8A9A7E) ![Redis](https://img.shields.io/badge/Redis-1B2420?style=flat-square&logo=redis&logoColor=8A9A7E) ![pgvector](https://img.shields.io/badge/Postgres%20%2B%20pgvector-learning-1B2420?style=flat-square&logo=postgresql&logoColor=6E7A70) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-1B2420?style=flat-square&logo=git&logoColor=9AA69B) ![GitHub](https://img.shields.io/badge/GitHub-1B2420?style=flat-square&logo=github&logoColor=9AA69B) ![Docker](https://img.shields.io/badge/Docker-1B2420?style=flat-square&logo=docker&logoColor=9AA69B) ![Postman](https://img.shields.io/badge/Postman-1B2420?style=flat-square&logo=postman&logoColor=9AA69B) ![VS Code](https://img.shields.io/badge/VS%20Code-1B2420?style=flat-square&logo=visualstudiocode&logoColor=9AA69B) |
+| **Languages** | ![Java](https://img.shields.io/badge/Java-16132B?style=flat-square&logo=openjdk&logoColor=E3B23C) ![JavaScript](https://img.shields.io/badge/JavaScript%20ES6%2B-16132B?style=flat-square&logo=javascript&logoColor=E3B23C) ![Python](https://img.shields.io/badge/Python-16132B?style=flat-square&logo=python&logoColor=E3B23C) ![SQL](https://img.shields.io/badge/SQL-16132B?style=flat-square&logoColor=E3B23C) ![C](https://img.shields.io/badge/C-16132B?style=flat-square&logo=c&logoColor=E3B23C) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-16132B?style=flat-square&logo=react&logoColor=E3B23C) ![HTML5](https://img.shields.io/badge/HTML5-16132B?style=flat-square&logo=html5&logoColor=E3B23C) ![CSS3](https://img.shields.io/badge/CSS3-16132B?style=flat-square&logo=css3&logoColor=E3B23C) ![Tailwind](https://img.shields.io/badge/Tailwind-16132B?style=flat-square&logo=tailwindcss&logoColor=E3B23C) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-16132B?style=flat-square&logo=nodedotjs&logoColor=E3B23C) ![Express](https://img.shields.io/badge/Express-16132B?style=flat-square&logo=express&logoColor=E3B23C) ![REST](https://img.shields.io/badge/REST%20APIs-16132B?style=flat-square&logoColor=E3B23C) ![FastAPI](https://img.shields.io/badge/FastAPI-learning-16132B?style=flat-square&logo=fastapi&logoColor=7A6F9B) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-16132B?style=flat-square&logo=mongodb&logoColor=E3B23C) ![MySQL](https://img.shields.io/badge/MySQL-16132B?style=flat-square&logo=mysql&logoColor=E3B23C) ![Redis](https://img.shields.io/badge/Redis-16132B?style=flat-square&logo=redis&logoColor=E3B23C) ![pgvector](https://img.shields.io/badge/Postgres%20%2B%20pgvector-learning-16132B?style=flat-square&logo=postgresql&logoColor=7A6F9B) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-16132B?style=flat-square&logo=git&logoColor=A79CC4) ![GitHub](https://img.shields.io/badge/GitHub-16132B?style=flat-square&logo=github&logoColor=A79CC4) ![Docker](https://img.shields.io/badge/Docker-16132B?style=flat-square&logo=docker&logoColor=A79CC4) ![Postman](https://img.shields.io/badge/Postman-16132B?style=flat-square&logo=postman&logoColor=A79CC4) ![VS Code](https://img.shields.io/badge/VS%20Code-16132B?style=flat-square&logo=visualstudiocode&logoColor=A79CC4) |
 
 Badges marked **learning** are exactly that — in progress, not production experience.
 
@@ -44,7 +44,7 @@ Badges marked **learning** are exactly that — in progress, not production expe
 ### Abhyasa &nbsp;·&nbsp; EdTech platform
 **Sole engineer** &nbsp;·&nbsp; 2025–2026 &nbsp;·&nbsp; Belagavi (remote)
 
-[![Live](https://img.shields.io/badge/Live-abhyasalearning.in-8A9A7E?style=flat-square&labelColor=1B2420)](https://abhyasalearning.in/)
+[![Live](https://img.shields.io/badge/Live-abhyasalearning.in-E3B23C?style=flat-square&labelColor=16132B)](https://abhyasalearning.in/)
 `React` `TypeScript` `Node` `Express` `MongoDB` `Redis` `Razorpay` `Docker`
 
 A MERN learning platform for Indian school curricula, with paid subscriptions. I designed,
@@ -67,8 +67,8 @@ built and deployed all of it.
 ### Tabby &nbsp;·&nbsp; Bill splitting
 **72-hour sprint** &nbsp;·&nbsp; Lovable SheBuilds Season 4
 
-[![Live](https://img.shields.io/badge/Live-demo-8A9A7E?style=flat-square&labelColor=1B2420)](https://id-preview--faf4698e-b141-42df-b08a-6dd96cc748d3.lovable.app/)
-[![Code](https://img.shields.io/badge/Code-tabby--split--magic-1B2420?style=flat-square&logo=github&logoColor=9AA69B&labelColor=1B2420)](https://github.com/Bhuvaneshwari-Mallesh/tabby-split-magic)
+[![Live](https://img.shields.io/badge/Live-demo-E3B23C?style=flat-square&labelColor=16132B)](https://id-preview--faf4698e-b141-42df-b08a-6dd96cc748d3.lovable.app/)
+[![Code](https://img.shields.io/badge/Code-tabby--split--magic-16132B?style=flat-square&logo=github&logoColor=A79CC4&labelColor=16132B)](https://github.com/Bhuvaneshwari-Mallesh/tabby-split-magic)
 `React` `TypeScript` `Tailwind CSS` `Supabase Edge Functions`
 
 Takes a tangle of group IOUs and reduces it to the fewest direct payments. Built in 72 hours
@@ -87,7 +87,7 @@ for SheBuilds Season 4, a women-only global buildathon that drew 5,000+ applican
   ephemeral and there's no group history. That's the next build, not a gap I'm hiding.
 
 ### KrishiSahay &nbsp;·&nbsp; Agricultural advisory
-[![Live](https://img.shields.io/badge/Live-demo-8A9A7E?style=flat-square&labelColor=1B2420)](https://krishi-sahay.onrender.com/)
+[![Live](https://img.shields.io/badge/Live-demo-E3B23C?style=flat-square&labelColor=16132B)](https://krishi-sahay.onrender.com/)
 
 A prototype advisory platform for small-scale farmers in India: spectral crop advisories,
 crop disease diagnosis through Gemini Vision, mandi price lookup, and a voice assistant for
@@ -98,7 +98,7 @@ front of real farmers yet.
 
 ## 🚧 Right now — FollowThru
 
-![status](https://img.shields.io/badge/status-in%20development-C48A8A?style=flat-square&labelColor=1B2420)
+![status](https://img.shields.io/badge/status-in%20development-9B6BD9?style=flat-square&labelColor=16132B)
 
 **In active development. Not finished, not deployed.**
 
@@ -144,9 +144,8 @@ anymore.
 | <img src="assets/icons/film.svg" width="18" align="absmiddle">&nbsp; **Film, closely** | I can't just watch a scene, I have to know why it worked. Same reason I don't ship a fix until I know what actually broke. |
 | <img src="assets/icons/book.svg" width="18" align="absmiddle">&nbsp; **Dostoevsky, Kafka** | I'll sit with a slow book longer than I probably should. Also true of bugs — I've burned a whole evening on one that turned out to be a missing `await`. |
 | <img src="assets/icons/music.svg" width="18" align="absmiddle">&nbsp; **Singing, competitively** | No retakes, no undo button. Closest thing to deploying on a Friday. |
-| <img src="assets/icons/temple.svg" width="18" align="absmiddle">&nbsp; **Mythology rabbit holes** | Give me an unconvincing explanation and I will go find a better one, even if nobody asked. Same energy as not trusting a model's answer until it's grounded in something real. |
+| <img src="assets/icons/rabbithole.svg" width="18" align="absmiddle">&nbsp; **Rabbit holes** | I'll lose an evening to a question I have no practical use for, usually because the standard explanation doesn't quite hold up. Same instinct as not trusting a claim until I've checked it against more than one source — which is more or less what retrieval does for FollowThru's resume matching. |
 | <img src="assets/icons/pot.svg" width="18" align="absmiddle">&nbsp; **Cooking** | I ignore the recipe and fix it by taste. Same as most of my debugging, honestly — guess, taste, adjust, repeat. |
-| <img src="assets/icons/dumbbell.svg" width="18" align="absmiddle">&nbsp; **Home workouts, not gym** | Stopped doing the thing that wasn't working instead of pushing through it. Took longer to apply that logic to my tech stack. |
 | <img src="assets/icons/paw.svg" width="18" align="absmiddle">&nbsp; **One Piece, Ghibli** | Fine with a slow build if the ending's earned. Good thing, given how many times this project list has changed. |
 | <img src="assets/icons/camera.svg" width="18" align="absmiddle">&nbsp; **Journaling, cloud photos** | I write down ordinary days for the same reason I log what broke in a deploy — not every entry needs to be impressive to be worth keeping. |
 
@@ -154,11 +153,11 @@ anymore.
 
 ## GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=Bhuvaneshwari-Mallesh&show_icons=true&hide_border=true&cache_seconds=86400&bg_color=1B2420&title_color=8A9A7E&icon_color=8A9A7E&text_color=EDEAE2&ring_color=8A9A7E" height="160" alt="GitHub stats">
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhuvaneshwari-Mallesh&show_icons=true&hide_border=true&cache_seconds=86400&bg_color=16132B&title_color=E3B23C&icon_color=E3B23C&text_color=F2EBD9&ring_color=E3B23C)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvaneshwari-Mallesh&layout=compact&hide_border=true&cache_seconds=86400&bg_color=1B2420&title_color=8A9A7E&text_color=EDEAE2" height="160" alt="Most-used languages">
+![Most-used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvaneshwari-Mallesh&layout=compact&hide_border=true&cache_seconds=86400&bg_color=16132B&title_color=E3B23C&text_color=F2EBD9)
 
-<img src="https://streak-stats.demolab.com/?user=Bhuvaneshwari-Mallesh&hide_border=true&background=1B2420&border=2C3A34&stroke=2C3A34&ring=8A9A7E&fire=C48A8A&currStreakLabel=C48A8A&sideLabels=9AA69B&dates=6E7A70&currStreakNum=EDEAE2&sideNums=EDEAE2" height="160" alt="Contribution streak">
+![Contribution streak](https://streak-stats.demolab.com/?user=Bhuvaneshwari-Mallesh&hide_border=true&background=16132B&border=2C2750&stroke=2C2750&ring=E3B23C&fire=9B6BD9&currStreakLabel=9B6BD9&sideLabels=A79CC4&dates=7A6F9B&currStreakNum=F2EBD9&sideNums=F2EBD9)
 
 <img src="assets/divider.svg" width="100%" alt="">
 
@@ -166,8 +165,8 @@ anymore.
 
 Open to software engineering and full-stack roles.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-bhuvaneshwari--mallesh-1B2420?style=flat-square&logo=linkedin&logoColor=8A9A7E&labelColor=1B2420)](https://linkedin.com/in/bhuvaneshwari-mallesh)
-[![Email](https://img.shields.io/badge/Email-bhuvanamallesh08%40gmail.com-1B2420?style=flat-square&logo=gmail&logoColor=8A9A7E&labelColor=1B2420)](mailto:bhuvanamallesh08@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-bhuvnaaa-1B2420?style=flat-square&logo=leetcode&logoColor=9AA69B&labelColor=1B2420)](https://leetcode.com/u/bhuvnaaa/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bhuvaneshwari--mallesh-16132B?style=flat-square&logo=linkedin&logoColor=E3B23C&labelColor=16132B)](https://linkedin.com/in/bhuvaneshwari-mallesh)
+[![Email](https://img.shields.io/badge/Email-bhuvanamallesh08%40gmail.com-16132B?style=flat-square&logo=gmail&logoColor=E3B23C&labelColor=16132B)](mailto:bhuvanamallesh08@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-bhuvnaaa-16132B?style=flat-square&logo=leetcode&logoColor=A79CC4&labelColor=16132B)](https://leetcode.com/u/bhuvnaaa/)
 
 <sub>Belagavi, Karnataka, India.</sub>

@@ -1,31 +1,31 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 270" width="900" height="270" role="img" aria-label="Bhuvaneshwari Mallesh — software engineer, full-stack developer">
-  <rect x="0.5" y="0.5" width="899" height="269" rx="14" fill="#1B2420" stroke="#2C3A34"/>
+  <rect x="0.5" y="0.5" width="899" height="269" rx="14" fill="#16132B" stroke="#2C2750"/>
 
-  <text x="40" y="54" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="2.2" fill="#8A9A7E">SOFTWARE ENGINEER &#183; FULL-STACK DEVELOPER</text>
+  <text x="40" y="54" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="2.2" fill="#E3B23C">SOFTWARE ENGINEER &#183; FULL-STACK DEVELOPER</text>
 
-  <text x="40" y="112" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="38" font-weight="700" fill="#EDEAE2">Bhuvaneshwari Mallesh</text>
+  <text x="40" y="112" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="38" font-weight="700" fill="#F2EBD9">Bhuvaneshwari Mallesh</text>
 
-  <text x="40" y="146" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" fill="#9AA69B">Full-stack products, end to end: auth, payments, caching, deploy.</text>
+  <text x="40" y="146" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" fill="#A79CC4">Full-stack products, end to end: auth, payments, caching, deploy.</text>
 
-  <text x="40" y="184" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#6E7A70">React &#183; TypeScript &#183; Node &#183; Express &#183; MongoDB &#183; Redis &#183; Docker</text>
+  <text x="40" y="184" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#7A6F9B">React &#183; TypeScript &#183; Node &#183; Express &#183; MongoDB &#183; Redis &#183; Docker</text>
 
-  <line x1="40" y1="208" x2="156" y2="208" stroke="#8A9A7E" stroke-width="2" stroke-linecap="round"/>
+  <line x1="40" y1="208" x2="156" y2="208" stroke="#E3B23C" stroke-width="2" stroke-linecap="round"/>
 
-  <text x="40" y="242" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" letter-spacing="1.2" fill="#3C4A43">B.E. ELECTRONICS &amp; COMMUNICATION, 2025 &#183; CGPA 8.6 &#183; BELAGAVI, KARNATAKA</text>
+  <text x="40" y="242" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" letter-spacing="1.2" fill="#332D5C">B.E. ELECTRONICS &amp; COMMUNICATION, 2025 &#183; CGPA 8.6 &#183; BELAGAVI, KARNATAKA</text>
 
   <!-- right: measured Redis result from Abhyasa -->
-  <text x="860" y="54" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9.5" letter-spacing="1.5" fill="#6E7A70">ABHYASA &#183; CURRICULUM READ PATH</text>
+  <text x="860" y="54" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9.5" letter-spacing="1.5" fill="#7A6F9B">ABHYASA &#183; CURRICULUM READ PATH</text>
 
-  <text x="652" y="94" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#9AA69B">without cache</text>
-  <rect x="660" y="84" width="200" height="13" rx="3" fill="#2E3A34"/>
-  <text x="852" y="94" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9.5" fill="#D5D9CE">180 ms</text>
+  <text x="652" y="94" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#A79CC4">without cache</text>
+  <rect x="660" y="84" width="200" height="13" rx="3" fill="#2A2447"/>
+  <text x="852" y="94" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9.5" fill="#DCD4C0">180 ms</text>
 
-  <text x="652" y="128" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#9AA69B">with redis</text>
-  <rect x="660" y="118" width="8" height="13" rx="2" fill="#8A9A7E"/>
-  <text x="678" y="128" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9.5" fill="#8A9A7E">7 ms</text>
+  <text x="652" y="128" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#A79CC4">with redis</text>
+  <rect x="660" y="118" width="8" height="13" rx="2" fill="#E3B23C"/>
+  <text x="678" y="128" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9.5" fill="#E3B23C">7 ms</text>
 
-  <line x1="660" y1="144" x2="860" y2="144" stroke="#2C3A34" stroke-width="1"/>
+  <line x1="660" y1="144" x2="860" y2="144" stroke="#2C2750" stroke-width="1"/>
 
-  <text x="860" y="166" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8A9A7E">~96% faster on cached reads</text>
-  <text x="860" y="188" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" fill="#6E7A70">invalidated on write</text>
+  <text x="860" y="166" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#E3B23C">~96% faster on cached reads</text>
+  <text x="860" y="188" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" fill="#7A6F9B">invalidated on write</text>
 </svg>
